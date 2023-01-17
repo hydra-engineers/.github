@@ -6,5 +6,5 @@ We also have a couple of public repositories of which your able to help us impro
 
 ## Our Team
 <div align="center">
-    <img alt="our-team-members" height="300" src="../dist/our-team.svg" width="800" />
+    <img alt="our-team-members" height="300" src="/dist/our-team.svg" width="800" />
 </div>
